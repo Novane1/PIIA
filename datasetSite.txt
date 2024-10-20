@@ -1,0 +1,44 @@
+. Kaggle
+Description : Kaggle propose une vaste collection de datasets sur une grande variété de sujets, allant de données textuelles aux images et séries temporelles.
+Utilisation : Vous pouvez trouver des corpus textuels pour le traitement du langage naturel (NLP), comme des transcriptions, des avis, des dialogues, des articles, etc.
+Lien : Kaggle Datasets
+2. Hugging Face Datasets
+Description : Hugging Face propose une large collection de datasets spécifiquement orientés vers le NLP. Vous pouvez accéder à des données de conversations, de traduction, de résumé, et bien plus encore.
+Utilisation : Idéal pour trouver des corpus annotés ou bruts pour des tâches de génération de texte, classification, etc.
+Lien : Hugging Face Datasets
+3. Common Crawl
+Description : Common Crawl est une archive de données textuelles provenant du web, contenant des milliards de pages web.
+Utilisation : Utilisé pour des tâches de web scraping à grande échelle, notamment pour l'entraînement de modèles comme GPT et BERT.
+Lien : Common Crawl
+4. Project Gutenberg
+Description : Project Gutenberg propose des livres du domaine public, souvent utilisés pour des analyses textuelles ou des modèles de génération de texte.
+Utilisation : Vous pouvez télécharger des milliers de livres gratuits et les utiliser comme corpus pour entraîner des modèles sur différents styles littéraires.
+Lien : Project Gutenberg
+5. Wikipedia Dumps
+Description : Wikipedia propose régulièrement des dumps de son contenu, qui sont utilisés pour extraire des informations, former des modèles de NLP ou pour la recherche d'informations.
+Utilisation : Ces données sont largement utilisées pour créer des modèles de classification, de génération de texte ou de question-réponse.
+Lien : Wikipedia Dumps
+6. Reddit Data (Pushshift.io)
+Description : Reddit, via Pushshift.io, permet l'accès aux données de discussions, commentaires et posts Reddit.
+Utilisation : Utile pour analyser des conversations ou entraîner des IA sur des interactions sociales en ligne.
+Lien : Pushshift Reddit Data
+7. OpenSubtitles
+Description : Ce site propose des transcriptions de sous-titres de films et séries en plusieurs langues.
+Utilisation : Souvent utilisé pour l'entraînement de modèles de traduction, de sous-titrage automatique, ou de génération de dialogues.
+Lien : OpenSubtitles
+8. AI2 (Allen Institute for AI)
+Description : L'Allen Institute for AI propose des datasets liés à la recherche en intelligence artificielle, y compris des corpus textuels pour des tâches comme le résumé automatique, l'extraction d'information, etc.
+Utilisation : Convient à ceux qui travaillent sur des projets académiques ou de recherche en IA.
+Lien : AI2 Datasets
+9. The Pile (EleutherAI)
+Description : The Pile est un dataset massif conçu par EleutherAI, constitué de plusieurs sources textuelles, y compris des articles de recherche, des blogs, des journaux, etc.
+Utilisation : Très utilisé pour l'entraînement de grands modèles de langage, similaire à GPT.
+Lien : The Pile on GitHub
+10. Google Dataset Search
+Description : Google Dataset Search est un moteur de recherche qui vous permet de trouver des datasets publiés par diverses organisations et chercheurs.
+Utilisation : Vous pouvez l'utiliser pour rechercher des données textuelles sur un sujet spécifique.
+Lien : Google Dataset Search
+11. ArXiv
+Description : ArXiv propose des articles académiques gratuits dans les domaines des sciences, de l'informatique, et plus encore.
+Utilisation : Utile pour l'extraction d'informations et l'entraînement sur du texte scientifique ou technique.
+Lien : ArXiv
